@@ -4,7 +4,7 @@
 
 
 
-![Vvenetillo](https://github-readme-stats.vercel.app/api/top-langs/?username=vvenetillo&hide_progress=true)
+![Vvenetillo](	https://github-readme-stats.vercel.app/api/top-langs/?username=vvenetillo&theme=blue-green)
 
 ## Tecnologias que utilizo no dia a dia:
 

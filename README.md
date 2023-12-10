@@ -4,7 +4,7 @@
 
 ## SKILLS:
 
-### Main Stack:
+#### Main Stack:
 <div style="display: flex">
 <img align= "center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align= "center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -15,7 +15,7 @@
 </div>
 <br/>
 
-### Secondary Stack:
+#### Secondary Stack:
 <div style="display: flex">
 <img align= "center" alt="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 <img align= "center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -26,29 +26,27 @@
 </div>
 <br />
 
-### Database:
+#### Database:
 <div style="display: flex">
 <img align= "center" alt="MONGODB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 <br /> 
 
 
-### Workstation Tools:
+#### Workstation Tools:
 <div style="display: flex">
   <img align= "center" alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit">
 </div>
 <br/>
 
-### Studying in this moment:
+#### Studying in this moment:
 <div style="display: flex">
   <img align= "center" alt="EXPRESS" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <br/>
 
-### Apaixonado por tecnologia e por programação
-<br/>
 
-Contato:
+## Contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vvenetillo/)
 <br/>

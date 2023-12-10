@@ -1,5 +1,5 @@
 ### Olá! Me chamo José Victor Venetillo, seja bem-vindo!🤚
-<br/>
+
 ![Vvenetillo](	https://github-readme-stats.vercel.app/api/top-langs/?username=vvenetillo&theme=blue-green)
 
 ## SKILLS:

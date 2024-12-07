@@ -41,12 +41,12 @@
 </div>
 <br/>
 
-#### Studying in this moment:
+/* #### Studying in this moment:
 <div style="display: flex">
   <img align= "center" alt="EXPRESS" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <br/>
-
+*/
 
 ## Contato:
 
